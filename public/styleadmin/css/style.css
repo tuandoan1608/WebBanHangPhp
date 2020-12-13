@@ -1,0 +1,148 @@
+.container-fluid{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+body{
+    font-family: Roboto,Arial, Helvetica, sans-serif;
+    background: url(../image/bgbody.jpg) no-repeat #0f1013;
+   
+    background-size: 100% auto  ;
+}
+.sa-card{
+    border:1px solid #fff;
+    margin-top: 10px;
+}
+.title-sibar p,.title-filter p{
+    color: yellow;
+    text-align: center;
+    height: 45px;
+    padding-top: 5px;
+    font-size: 20px;
+    display: block;
+    margin: 0px;
+}
+.title-sibar{background-color: #30353d;}
+.main-sibar{
+    background-color: black;
+}
+.loaithe{
+  
+    padding-top: 10px;
+}
+.nap{
+    width: 100%;
+}
+.btnNap{
+    padding-bottom: 30px;
+    margin: 0px;
+}
+.card-charing-home{
+    padding: 0px 10px 0px 10px;
+}
+.filter{
+    margin-top: 10px;
+    background-color: #0f1013;
+}
+.main-filter{
+    padding: 0px 10px 20px 10px;
+}
+.imgThum{
+    width: 100%;
+}
+.thumbnail{
+    border:1px solid #30343c;
+    margin-top: 10px;
+    background-color: #1f2228;
+}
+.thumTile p{
+    padding: 0px 5px 0px 5px;
+    font-size: 17px;
+    color: red;
+}
+.thumTile{
+    background-color: #0f1013;
+}
+.thumDetail ul li{
+    color: #fff;
+  
+}
+.thumDetail ul {
+    padding-left: 20px;
+}
+.btnPrice{
+    margin-left: 40px;
+    
+}
+.btnThum{
+padding-bottom: 10px;
+}
+.footer{
+    padding-top: 10px;
+    margin-top: 5px;
+}
+.footer ul li{
+    list-style: none;
+    color:  red;
+    font-size: 20px;
+}
+.footer ul {
+    padding-left: 0px;
+}
+.container{
+    box-sizing: border-box;
+    width: 1200px !important;
+}
+.login-box-msg{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(82, 82, 82);
+}
+.box-custom{
+    border: 1px solid #cccccc;
+    padding: 15px;
+    background-color: #fff;
+    width: 300px;
+    position: absolute;
+    top:20%;
+    left: 40%;
+}
+
+.form-control-feedback {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 99;
+    display: block;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    pointer-events: none;
+}
+
+.has-feedback {
+    position: relative;
+}
+.form-control {
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    background-color: #fff;
+    border: 1px solid #c2cad8;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.form-control, output {
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #555;
+    display: block;
+}
+.btnDangky{
+    width: 100%;
+}
